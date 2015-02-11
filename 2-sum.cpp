@@ -1,5 +1,5 @@
 // http://lintcode.com/zh-cn/problem/2-sum/
-
+ 
 
 class Solution {
 public:
