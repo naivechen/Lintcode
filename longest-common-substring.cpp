@@ -1,4 +1,4 @@
-// http://lintcode.com/en/problem/longest-common-substring/
+// http://lintcode.com/en/problem/longest-common-substring/ 
 
 
 class Solution {
